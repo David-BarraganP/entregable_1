@@ -52,10 +52,10 @@
     position: absolute;
     background-image: url(/images/planet.png);
     background-size: cover;
-    border-radius: 100%;
+    border-radius: 100px 0px 0px 0px;
     width: 200px;
-    height: 190px;
-    bottom: -80px;
+    height: 75px;
+    bottom: 0;
     left: 50%;
     transform: translateX(-50%);
 }
@@ -65,10 +65,10 @@
     position: absolute;
     background-image: url(/images/jupiter.png);
     background-size: cover;
-    border-radius: 100%;
+    border-radius: 100px 0px 0px 0px;
     width: 200px;
-    height: 190px;
-    bottom: -80px;
+    height: 75px;
+    bottom: 0;
     left: 50%;
     transform: translateX(-50%);
 }
@@ -77,10 +77,10 @@
     position: absolute;
     background-image: url(/images/planets.png);
     background-size: cover;
-    border-radius: 100%;
-    width: 200px;
-    height: 190px;
-    bottom: -80px;
+    border-radius: 100px 0px 0px 0px ;
+    width: 230px;
+    height: 90px;
+    bottom: 0;
     left: 50%;
     transform: translateX(-50%);
 }
@@ -89,10 +89,10 @@
     position: absolute;
     background-image: url(/images/earth.png);
     background-size: cover;
-    border-radius: 100%;
+    border-radius: 100px 0px 0px 0px ;
     width: 200px;
-    height: 190px;
-    bottom: -80px;
+    height: 75px;
+    bottom: 0;
     left: 50%;
     transform: translateX(-50%);
 }
